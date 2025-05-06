@@ -1,40 +1,52 @@
-# 🎧 Lespeaker - Consertos de Áudio 
+# 🎧 LeSpeaker – Plataforma de Assistência Técnica em Equipamentos de Áudio
 
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-
-> Projeto criado pra **treinar meus conhecimentos** em desenvolvimento web com as tecnologias do front-end.  
-> O foco é simular um site real de assistência técnica em **equipamentos de áudio**.  
-> O site futuramente será postado oficialmente na web.
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=fff)
 
 ---
 
-## 🚀 Tecnologias Usadas
+## 📌 Sobre o Projeto
 
-- ⚡ **Next.js** – Estrutura base, com SSR, otimização automática e rotas dinâmicas  
-- ⚛️ **React** – SPA e componentização chave  
-- 🧠 **TypeScript** – Código tipado e seguro  
-- 📜 **JavaScript** – Usado junto pra lógica geral  
-- 🎨 **HTML + CSS** – Estrutura e visual  
-- ✍️ **next/font** – Otimização automática de fontes, usando a família [Geist](https://vercel.com/font)
+**LeSpeaker** é um site institucional desenvolvido com foco em apresentar os serviços de assistência técnica em dispositivos de áudio, como caixas de som, fones, amplificadores e outros equipamentos eletrônicos relacionados.
+
+O projeto foi inicialmente criado como uma prática para consolidar conhecimentos nas tecnologias web modernas, mas possui estrutura sólida e potencial real de se tornar um site profissional no futuro.
 
 ---
 
-## 🛠️ Como Rodar o Projeto
+## ⚙️ Tecnologias Utilizadas
 
-Esse projeto foi criado com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+- **Next.js** – Framework React com suporte a SSR e SSG, para maior performance e escalabilidade
+- **React.js** – Biblioteca JavaScript para construção de interfaces dinâmicas
+- **TypeScript** – Superset do JavaScript que adiciona tipagem estática ao projeto
+- **JavaScript** – Linguagem principal para interações e lógicas do cliente
+- **HTML & CSS** – Estrutura e estilização base do site
+- **Next Font / Geist** – Otimização de tipografia com fontes modernas
 
-Primeiro, roda o servidor de desenvolvimento:
+---
+
+## 🚀 Como Executar Localmente
+
+Este projeto foi iniciado com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+### Passo a passo:
 
 ```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/lespeaker.git
+
+# Acesse o diretório do projeto
+cd lespeaker
+
+# Instale as dependências
+npm install
+# ou
+yarn install
+
+# Execute o servidor de desenvolvimento
 npm run dev
 # ou
 yarn dev
-# ou
-pnpm dev
-# ou
-bun dev
