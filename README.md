@@ -1,4 +1,4 @@
-# 🎧 LeSpeaker – Plataforma de Assistência Técnica em Equipamentos de Áudio
+# 🎧 Lespeaker – Plataforma de Assistência Técnica em Equipamentos de Áudio
 
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
