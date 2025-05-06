@@ -13,7 +13,7 @@
 
 **LeSpeaker** é um site institucional desenvolvido com foco em apresentar os serviços de assistência técnica em dispositivos de áudio, como caixas de som, fones, amplificadores e outros equipamentos eletrônicos relacionados.
 
-O projeto foi inicialmente criado como uma prática para consolidar conhecimentos nas tecnologias web modernas, mas possui estrutura sólida e potencial real de se tornar um site profissional no futuro.
+O projeto foi inicialmente criado como uma prática para consolidar conhecimentos nas tecnologias web modernas, mas futuramente irá se tornar um site real, responsável pela venda e exibição de produtos e serviços relacionados á aparelhos sonoros.
 
 ---
 
