@@ -1,4 +1,4 @@
-# 🎧 LeSpeaker - Site de Conserto de Áudio  
+# 🎧 Lespeaker - Consertos de Áudio 
 
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -7,9 +7,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
-> Projeto criado pra **treinar meus conhecimentos** em desenvolvimento web com as tecnologias brabas do front.  
+> Projeto criado pra **treinar meus conhecimentos** em desenvolvimento web com as tecnologias do front-end.  
 > O foco é simular um site real de assistência técnica em **equipamentos de áudio**.  
-> Feito com amor, raiva do bug e força de vontade 🧠🔥
+> O site futuramente será postado oficialmente na web.
 
 ---
 
