@@ -36,10 +36,10 @@ Este projeto foi iniciado com [`create-next-app`](https://nextjs.org/docs/app/ap
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/lespeaker.git
+git clone https://github.com/lucsnobre/ptpLESPEAKER
 
 # Acesse o diretório do projeto
-cd lespeaker
+cd ptpLESPEAKER
 
 # Instale as dependências
 npm install
