@@ -2,9 +2,9 @@ export default function SupportPage() {
   return (
     <main className="py-12">
       <div className="container mx-auto px-4">
-        <h1 className="text-3xl font-medium mb-8">Bem vindo ao Suporte AudioAuto</h1>
+        <h1 className="text-3xl font-medium mb-8">Bem vindo ao Suporte da Lespeaker</h1>
 
-        {/* Search Bar */}
+        {/* barra de pesquisa */}
         <div className="mb-12">
           <div className="flex flex-col md:flex-row gap-4">
             <select className="border border-zinc-300 p-2 rounded-sm w-full md:w-48">
@@ -32,7 +32,7 @@ export default function SupportPage() {
           </div>
         </div>
 
-        {/* Tabs */}
+        {/* tabs*/}
         <div className="border-b border-zinc-300 mb-8">
           <div className="flex">
             <a href="#" className="px-6 py-3 border-b-2 border-black font-medium text-sm">
@@ -50,7 +50,7 @@ export default function SupportPage() {
           </div>
         </div>
 
-        {/* Category Grid */}
+        {/* categorias */}
         <div className="mb-16">
           <h2 className="text-2xl font-medium mb-8">Selecione uma categoria</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -73,7 +73,7 @@ export default function SupportPage() {
           </div>
         </div>
 
-        {/* Popular Topics */}
+        {/* topicos populares */}
         <div className="mb-16">
           <h2 className="text-2xl font-medium mb-8">Tópicos populares</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -98,7 +98,7 @@ export default function SupportPage() {
           </div>
         </div>
 
-        {/* Support Options */}
+        {/* opções de suporte */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="border border-zinc-200 p-6">
             <div className="flex items-center mb-4">

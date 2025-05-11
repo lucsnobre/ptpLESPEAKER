@@ -29,9 +29,9 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex-shrink-0">
             <img
-              src="/images/logos/audioauto-logo.svg"
+              src="/images/logos/logoIntera.png"
               alt="AudioAuto Repair"
-              className="h-6"
+              className="h-24 md:h-30 lg:h-40 w-auto"
             />
           </Link>
 

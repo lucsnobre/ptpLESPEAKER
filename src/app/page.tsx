@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col">
-      {/* Hero Section */}
+      {/* inciio */}
       <section className="relative w-full h-[70vh] bg-[url('/images/hero-repair.jpg')] bg-cover bg-center">
         <div className="absolute inset-0 bg-black/30" />
         <div className="relative z-10 container mx-auto px-4 h-full flex flex-col justify-center">
