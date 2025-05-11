@@ -5,9 +5,13 @@ import Footer from "@/components/layout/footer";
 import { ClientBody } from "./ClientBody";
 
 export const metadata: Metadata = {
-  title: "AudioAuto Repair - Serviços especializados em Áudio e Automotivo",
+  title: "Lespeaker Áudio Part's",
   description: "Reparos especializados em equipamentos de áudio e automotivos com qualidade superior e atendimento personalizado.",
-};
+  icons: {
+    icon: "/images/logos/logoles.png" 
+  }
+}
+
 
 export default function RootLayout({
   children,
